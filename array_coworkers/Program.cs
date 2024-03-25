@@ -11,7 +11,7 @@ namespace array_coworkers
         static void Main(string[] args)
         {
             //Név1: Tömb létrehozása
-
+            
             //Név2: Tömb adatainak összeadása
 
             //Név3: Eredmények kiírása
